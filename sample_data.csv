@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Rating,ReviewCount,Stock,Discount,Brand,LaunchDate
+101,Wireless Mouse,Electronics,25.99,4.5,200,150,10%,Logitech,2022-01-15
+102,Gaming Keyboard,Electronics,75.49,4.7,350,85,5%,Corsair,2021-11-20
+103,Noise Cancelling Headphones,Electronics,199.99,4.8,125,60,15%,Sony,2021-09-05
+104,Running Shoes,Sports,49.99,4.3,500,200,20%,Nike,2022-02-10
+105,Smartwatch,Electronics,159.99,4.6,220,45,10%,Apple,2022-03-30
+106,Blender,Home & Kitchen,39.99,4.2,180,120,12%,Ninja,2021-12-25
+107,Coffee Maker,Home & Kitchen,89.99,4.1,240,90,8%,Keurig,2021-08-15
+108,Yoga Mat,Sports,29.99,4.4,320,300,5%,Manduka,2022-01-05
+109,Smart TV,Electronics,399.99,4.7,150,25,15%,Samsung,2022-06-10
+110,Vacuum Cleaner,Home & Kitchen,129.99,4.3,290,70,10%,Dyson,2021-10-20
